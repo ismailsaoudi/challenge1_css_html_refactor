@@ -2,7 +2,7 @@
 
 ## Description
 
-Replacing all div elements to Sementic elements 
+Replacing all div elements by Sementic elements 
 
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
